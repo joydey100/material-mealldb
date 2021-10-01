@@ -1,0 +1,7 @@
+.banner-info {
+  display: flex;
+  align-items: center;
+}
+.banner {
+  padding: 100px 0;
+}
